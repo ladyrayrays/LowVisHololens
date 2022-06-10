@@ -6,3 +6,4 @@ Builds/build/bin/ARM64/Release/GameAssembly.pdb filter=lfs diff=lfs merge=lfs -t
  filter=lfs diff=lfs merge=lfs -text
 [[:space:]]Builds/build/obj/il2cppOutputProject/ARM64/Release/linkresult_E51DDE53B19594FD4EED4419F1E602F3/GameAssembly.pdb filter=lfs diff=lfs merge=lfs -text
 Library/PlayerDataCache/WindowsStoreApps/Data/sharedassets0.assets filter=lfs diff=lfs merge=lfs -text
+Builds/build/obj/il2cppOutputProject/ARM64/Release/linkresult_E51DDE53B19594FD4EED4419F1E602F3/GameAssembly.pdb filter=lfs diff=lfs merge=lfs -text
