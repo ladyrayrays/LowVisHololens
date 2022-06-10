@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.microsoft.azure.spatial-anchors-sdk.core": {
+      "tarball": {
+        "hash": "973c35dbea33",
+        "mtime": 1654086314520,
+        "size": 84367,
+        "localPath": "C:\\Users\\UW-Madison Ability\\Desktop\\LowVisProject2\\Packages\\MixedReality\\com.microsoft.azure.spatial-anchors-sdk.core-2.12.0.tgz"
+      }
+    },
+    "com.microsoft.azure.spatial-anchors-sdk.windows": {
+      "tarball": {
+        "hash": "4b928bb293e8",
+        "mtime": 1654640108916,
+        "size": 18279687,
+        "localPath": "C:\\Users\\UW-Madison Ability\\Desktop\\LowVisProject2\\Packages\\MixedReality\\com.microsoft.azure.spatial-anchors-sdk.windows-2.12.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.openxr": {
+      "tarball": {
+        "hash": "a4cc3ecd3f67",
+        "mtime": 1654086319322,
+        "size": 10611639,
+        "localPath": "C:\\Users\\UW-Madison Ability\\Desktop\\LowVisProject2\\Packages\\MixedReality\\com.microsoft.mixedreality.openxr-1.4.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.foundation": {
+      "tarball": {
+        "hash": "251fc689f36f",
+        "mtime": 1654086318768,
+        "size": 11551936,
+        "localPath": "C:\\Users\\UW-Madison Ability\\Desktop\\LowVisProject2\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.foundation-2.8.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.standardassets": {
+      "tarball": {
+        "hash": "fcc2d8083af4",
+        "mtime": 1654086318558,
+        "size": 5302736,
+        "localPath": "C:\\Users\\UW-Madison Ability\\Desktop\\LowVisProject2\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.standardassets-2.8.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.worldlockingtools": {
+      "tarball": {
+        "hash": "550c28832059",
+        "mtime": 1654086319749,
+        "size": 14079740,
+        "localPath": "C:\\Users\\UW-Madison Ability\\Desktop\\LowVisProject2\\Packages\\MixedReality\\com.microsoft.mixedreality.worldlockingtools-1.5.9.tgz"
+      }
+    }
+  }
+}
