@@ -1,6 +1,0 @@
-openxr_loader.dll
-CoarseRelocUW.dll
-AzureSpatialAnchors.dll
-
-
-FrozenWorldPlugin.dll

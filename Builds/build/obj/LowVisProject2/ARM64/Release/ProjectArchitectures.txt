@@ -1,1 +1,0 @@
-C:\Users\UW-Madison Ability\Desktop\LowVisProject2\Builds\LowVisProject2\LowVisProject2.vcxproj;arm64
